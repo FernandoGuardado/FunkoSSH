@@ -1,13 +1,9 @@
-div{
-  height: 100vh;
-  width: 100vw;
-}
-
 .App{
   text-align: center;
 }
 
 .App-header{
+  text-align: center;
   background-color: black;
   height: 100px;
   padding: 20px;
@@ -15,12 +11,14 @@ div{
 }
 
 .SSHTextLogo{
+  text-align: center;
   position: absolute;
   top: -27px;
   left: 600px;
 }
 
 .Pop-Logo{
+  text-align: center;
   height: 180px;
   position: absolute;
   top: -20px;

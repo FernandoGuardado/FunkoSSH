@@ -1,11 +1,16 @@
 import React, { Component } from 'react';
-import logo from './Pop-logo.png';
-import WonderWoman from './WonderWoman.jpg';
-import TheFlash from './TheFlash.jpg';
-import HarleyQuinn from './HarleyQuinn.jpg';
-import TheJoker from './TheJoker.jpg';
-import GreenArrow from './GreenArrow.jpg';
-import Superman from './Superman.jpg';
+import logo from './Images/Pop-logo.png';
+import WonderWoman from './Images/WonderWoman.jpg';
+import TheFlash from './Images/TheFlash.jpg';
+import HarleyQuinn from './Images/HarleyQuinn.jpg';
+import TheJoker from './Images/TheJoker.jpg';
+import GreenArrow from './Images/GreenArrow.jpg';
+import Superman from './Images/Superman.jpg';
+
+import './App.css';
+//import FunkoPop from './Components/pop_figures.js';
+import {HashRouter,Route} from 'react-router-dom';
+import { Provider } from 'react-redux'
 
 import './App.css';
 
