@@ -13,8 +13,14 @@
 .SSHTextLogo{
   text-align: center;
   position: absolute;
-  top: -27px;
-  left: 600px;
+  top: 25px;
+  left: 750px;
+}
+.SneaksLogo{
+  text-align: center;
+  position: absolute;
+  top: 70px;
+  left: 680px;
 }
 
 .Pop-Logo{

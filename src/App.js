@@ -19,10 +19,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="SSHTextLogo">
-            <p>>_SSH</p>
-            <p>SNEAKER SIDE HUSTLE</p>
-          </h1>
+          <h1 className="SSHTextLogo">>_SSH </h1>
+          <h2 className="SneaksLogo">SNEAKER SIDE HUSTLE </h2>
           <img src={logo} className="Pop-Logo" alt="logo"/>
         </header>
 
